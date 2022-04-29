@@ -7,12 +7,22 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+    identifier: home
+  - name: Services
+    url: '#services'
+    weight: 10
+    parent: home
   - name: Posts
     url: '#posts'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Data Pillars
+    url: '#pillars'
     weight: 30
+    parent: data
+  - name: Open Science Repository &#128279;
+    url: 'https://zenodo.org/communities/socail_sustainability_observatory'
+    weight: 30
+    parent: data
   - name: Talks
     url: '#talks'
     weight: 40
