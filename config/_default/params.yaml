@@ -15,9 +15,9 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Business
     local_business_type: ''
-    org_name: ''
+    org_name: 'Social Sustainability Data Observatory'
     description: 'An open collaboration to monitor social sustainability in Europe and beyond.'
     twitter: 'wowchemy'
   analytics:

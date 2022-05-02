@@ -10,7 +10,7 @@ main:
     identifier: home
   - name: Services
     url: '#services'
-    weight: 10
+    weight: 20
     parent: home
   - name: Posts
     url: '#posts'

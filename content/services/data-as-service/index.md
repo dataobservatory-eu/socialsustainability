@@ -22,7 +22,7 @@ links:
 - icon: linkedin
   icon_pack: fab
   name: Connect
-  url: https://www.linkedin.com/company/80644612/
+  url: https://www.linkedin.com/company/68855596/
 - icon: database
   icon_pack: fas
   name: Try API
