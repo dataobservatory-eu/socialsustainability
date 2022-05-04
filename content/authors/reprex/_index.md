@@ -43,8 +43,10 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- institutional partners
 ---
 
 We are a Netherlands-based start-up company that makes big data reliable and accountable, delivering trustworthy analytics and AI solutions. We validate multiple data sources and are able to merge private and proprietary data with open data. We bring novel insight into policy and business problems, as well as scientific research. Our work addresses the potentially negative effects of black-box proprietary algorithms. Our diverse team is particularly experienced in music, the creative industries, and digital humanities, where data is scattered in small organizations.
