@@ -18,11 +18,11 @@ main:
   - name: Data Pillars
     url: '#pillars'
     weight: 30
-    parent: data
+    parent: Data
   - name: Open Science Repository &#128279;
     url: 'https://zenodo.org/communities/socail_sustainability_observatory'
     weight: 30
-    parent: data
+    parent: Data
   - name: Topics
     url: '#tags'
     weight: 40

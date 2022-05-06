@@ -5,7 +5,7 @@ name: Tile von Damm
 
 # Username (this should match the folder name)
 authors:
-- tile_von_damm
+    - tile_von_damm
 
 # Is this the primary user of the site?
 superuser: false
@@ -65,7 +65,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- data curators
+  - data curators
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 Tile von Damm is the director of Perspectives on Global Policies (PerGlobal) and the European project manager and member of the artistic board of the Creative Europe-funded projects [Orfeo&Majnun](https://www.orfeoandmajnun.eu/orfeo-and-majnun/) and [Centriphery](https://www.centriphery.eu/). He is scientific board member at [Prototypes For Europe e.V.](https://www.prototypes.berlin/) and Edkimo. Tile has domain-specific work experience in music, theatre, and urban design.
