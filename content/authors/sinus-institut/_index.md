@@ -19,7 +19,7 @@ organizations:
   url: "https://www.sinus-institut.de/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sinus-Institue helps the Digital Music Observatory with innovative survey design and survey implementation. 
+bio: Sinus-Institue helps the Social Sustainability Data Observatory with innovative survey design and survey implementation. 
 
 topics:
 - Survey design
