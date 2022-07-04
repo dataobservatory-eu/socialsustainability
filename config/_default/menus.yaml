@@ -20,7 +20,7 @@ main:
     weight: 30
     parent: Data
   - name: Open Science Repository &#128279;
-    url: 'https://zenodo.org/communities/socail_sustainability_observatory'
+    url: 'https://zenodo.org/communities/social_sustainability_observatory'
     weight: 30
     parent: Data
   - name: Topics
